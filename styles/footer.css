@@ -1,0 +1,89 @@
+.grid-footer{
+  display: grid;
+  grid-template-columns: 35% 65%;
+}
+.ft-pd-r8{
+  padding-left: 4.4px;
+}
+.footer-r8{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-top: 130px;
+
+  list-style: none;
+}
+.footer-r8 h4{
+  font-size: 18px;
+  letter-spacing: normal;
+  line-height: 23.4px;
+}
+.footer-r8 li{
+  font-size: 18px;
+  letter-spacing: normal;
+  line-height: 24px;
+  transition: all 0.52;
+}
+.footer-r8 li:hover{
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+}
+.ft-ls-margin{
+  margin-top: -24px;
+}
+.copyright{
+  width: 20px;
+  margin-bottom:-3px;
+}
+.ft-md-lf div{
+  font-size: 18px;
+  letter-spacing: normal;
+  line-height: 24px;
+  transition: all 0.52;
+}
+.ft-md-lf h3{
+  margin:-.5px 0;
+}
+.ft-md-lf div:hover{
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+}
+
+.ft-md-r8-flex-col{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  font-size: 18px;
+  letter-spacing: normal;
+  line-height: 24px;
+  transition: all 0.52;
+}
+.ft-md-r8-flex-top{
+  display: flex;
+  flex-direction: row;
+  column-gap: 15px;
+  justify-content: left;
+}
+.ft-md-r8-flex-top div:hover{
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+}
+.ft-arrow{
+  width: 20px;
+  margin-top:4px;
+}
+
+.white{
+  margin: 90px 0 0 0 ;
+  background-color: white;
+  height: 630px;
+  
+}
+
+.black{
+  background-color: black;
+}
+
+
+
+

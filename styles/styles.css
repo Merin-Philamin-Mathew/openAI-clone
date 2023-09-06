@@ -1,0 +1,132 @@
+
+.hover-underline-appear:hover{
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+}
+.margin-top-neg{
+  margin-top: -16px;
+}
+
+.hover-underline-disappear:hover{
+  text-decoration:underline rgba(33, 33, 33, 0.9);
+}
+.und-offset{
+  text-underline-offset: 2px;
+}
+.hover-black-to-white:hover{
+  color: black;
+  background-color: white;
+}
+.underline-th-1{
+  text-decoration-thickness: 1px;
+}
+.cursor:hover{
+  cursor: pointer;
+}
+
+.font-1-1rem{
+  font-size: 1.13rem;
+}
+.font-1-75rem{
+  font-size: 1.75rem;
+  
+}
+.signifier{
+  font-family: 'Signifier';
+  font-size: 48px;
+  font-weight: 400;
+  letter-spacing: -0.96px;
+}
+.font-apple{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.fon-55{
+  font-size: 53.5px;
+  line-height: 60.5px;
+}
+
+.fon-73{
+  font-size: 73px;
+}
+
+.opacity-0{
+  opacity:0;
+}
+.w-F{
+  width: 100%;
+}
+.h-F{
+  height: 100%;
+}
+
+.posn-rel{
+  position: relative;
+}
+.posn-ab{
+  position:absolute;
+}
+.pad-gen{
+  padding-left: 26px;
+  padding-right: 26px;
+}
+.flex{
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+}
+
+.grid-4{
+  display: grid;
+  justify-content: space-between;
+  column-gap: 24px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  max-width: 100%;
+  height: 100%;
+
+  margin-top: 100px;
+}
+.grid-4 img{
+  width: 100%;
+}
+.grid-4 h3{
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: -.023rem;
+  text-underline-offset: 0.9px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin-top:0.25rem;
+}
+.grid-4 div{
+  font-size: 18px;
+  margin-top: -14px;
+}
+.grid-4 h3:hover{
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+}
+
+.grid-2{
+  display: grid;
+  justify-content: space-between;
+  grid-template-columns: 1fr 1fr;
+  max-width: 100%;
+}
+
+.grid-2 p{
+  margin-top: 1px;
+}
+
+.grid-2 h3{
+  margin-bottom: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.grid-2 img{
+  margin-top: 14px;
+  margin-bottom: 90px;
+}
+
+
+  
+
+
+
